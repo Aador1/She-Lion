@@ -1,0 +1,50 @@
+body {
+    margin:0;
+}
+header {
+    background-color: rgba(122, 94, 148, 0.61);
+    text-align: center;
+    
+    font-family: 'Dancing Script';
+    font-size: 40px;
+    font-style: italic;
+    width: 100%;
+    margin:0px;
+    box-sizing: border-box; 
+}
+header h1 {
+    margin: 0;
+}
+.navbar ul {
+    
+    list-style-type: none;
+    background-color: rgb(196, 124, 148);
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+.navbar li {
+    
+    display: inline-block;
+
+}
+.navbar a {
+    color: black;
+    display: block;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+    display: inline;
+
+    
+}
+.navbar a:hover {
+    background-color: rgb(158, 79, 106);
+    border: 1px;
+
+}
+nav{
+    text-align: center;
+    
+}
